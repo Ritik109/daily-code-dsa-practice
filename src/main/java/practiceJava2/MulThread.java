@@ -1,4 +1,4 @@
-package practice1;
+package practiceJava2;
 
 public class MulThread extends Thread {
     @Override

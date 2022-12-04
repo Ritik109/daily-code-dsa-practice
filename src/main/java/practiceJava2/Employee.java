@@ -1,4 +1,4 @@
-package practice1;
+package practiceJava2;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,9 +1,8 @@
-package practice1;
+package practiceJava2;
 
 import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
-import java.util.function.Function;
 
 public class Practice1 {
     void display(Object o) {

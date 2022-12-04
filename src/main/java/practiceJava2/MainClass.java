@@ -1,6 +1,4 @@
-package practice1;
-
-import practice1.Employee;
+package practiceJava2;
 
 import java.util.*;
 import java.util.function.Function;

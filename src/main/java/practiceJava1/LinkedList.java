@@ -1,4 +1,4 @@
-package practice;
+package practiceJava1;
 
 public class LinkedList {
     public static void main(String[] args) {

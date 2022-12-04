@@ -1,6 +1,5 @@
-package practice1;
+package practiceJava2;
 
-import javax.sound.midi.MidiFileFormat;
 import java.util.*;
 import java.util.stream.Collectors;
 
