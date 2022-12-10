@@ -44,4 +44,27 @@ public class QuickSort {
         a[j] = temp;
     }
 
+    int partitioN(int[] arr, int start, int end){
+        int pivot = arr[end];
+        int pIndex = start;
+
+        for(int i=start;i<end-1;i++){
+
+            if(arr[i] < pivot){
+                swap(arr,i,pIndex);
+                pIndex++;
+
+            }
+
+        }
+
+        swap(arr,pIndex,end);
+
+        return pIndex;
+
+
+
+    }
+
+
 }
